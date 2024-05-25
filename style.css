@@ -1,0 +1,18 @@
+/* NAVBAR STYLING STARTS */
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  background-color: teal;
+  color: #282525;
+  width: 100%;
+  font-size:x-large;
+}
+
+nav a {
+  color: #1e1b1b;
+  background-color: teal;
+  text-decoration-line: none;
+}
+
